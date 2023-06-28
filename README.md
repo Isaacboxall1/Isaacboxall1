@@ -28,7 +28,7 @@ Below are some of the technologies I've learned and grown to enjoy:
 
 If you have a project that you want to get started, think you need my help with something, or just fancy saying hey, then get in touch.
 
-- LinkedIn: [(https://www.linkedin.com/in/isaac-boxall-310788138/)]((https://www.linkedin.com/in/isaac-boxall-310788138/))
+- LinkedIn: [Isaac Boxall]((https://www.linkedin.com/in/isaac-boxall-310788138/))
 
 ## 📈 My CodeWars stats
 
