@@ -1,5 +1,3 @@
-# Hello, I'm Isaac! 👋
-
 # Hi, I'm Isaac! 👋
 
 After spending years in the photography and arts industry, I've turned the page and embarked on an enriching journey as a **Front End Developer**. My path took an exciting turn in 2023 when I joined the School of Code Bootcamp. As a newcomer to the world of coding, the experience has been a humbling but rewarding adventure, fueled by my love for acquiring new skills. Leveraging my inherent problem-solving and collaborative skills from my previous career, I'm eager to keep growing and learning in this ever-evolving field.
