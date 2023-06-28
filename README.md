@@ -29,8 +29,8 @@ If you have a project that you want to get started, think you need my help with 
 
 - LinkedIn: [Isaac Boxall]((https://www.linkedin.com/in/isaac-boxall-310788138/))
 
-## 📈 My GitHub Stats
+## 📈 My CodeWars stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaacboxall1&show_icons=true)
+![Codewars](https://github.r2v.ch/codewars?user=Isaacboxall1&stroke=blue)
 
 
