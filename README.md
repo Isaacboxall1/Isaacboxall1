@@ -31,6 +31,6 @@ If you have a project that you want to get started, think you need my help with 
 
 ## 📈 My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaacboxall1e&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaacboxall1&show_icons=true)
 
 
