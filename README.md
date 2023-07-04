@@ -12,7 +12,7 @@ Below are some of the technologies I've learned and grown to enjoy:
 - **Version Control**: Git & GitHub
 - **Package Managers**: npm
 - **APIs**: REST, Express.js
-- **Databases**: SQL, Supabase
+- **Databases**: postgresSQL, Supabase
 - **Testing**: Jest, React Testing Library
 - **CI/CD**: GitHub Actions
 - **Other**: Agile methodologies, pair programming, problem-solving
@@ -26,7 +26,7 @@ Below are some of the technologies I've learned and grown to enjoy:
 
 ## 📫 Get in touch
 
-If you have a project that you want to get started, think you need my help with something, or just fancy saying hey, then get in touch.
+If you have a project that you want to get started, a potential opportunity to work together, or just fancy saying hey, then get in touch.
 
 - LinkedIn: [Isaac Boxall](https://www.linkedin.com/in/isaac-boxall-310788138/)
 
