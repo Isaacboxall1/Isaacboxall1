@@ -3,7 +3,7 @@
 After spending years in the photography and arts industry, I've turned the page and embarked on an enriching journey as a **Front End Developer**. My path took an exciting turn in 2023 when I joined the School of Code Bootcamp. As a newcomer to the world of coding, the experience has been a humbling but rewarding adventure, fueled by my love for acquiring new skills. Leveraging my inherent problem-solving and collaborative skills from my previous career, I'm eager to keep growing and learning in this ever-evolving field.
 
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools 
 
 Below are some of the technologies I've learned and grown to enjoy:
 
@@ -28,7 +28,7 @@ Below are some of the technologies I've learned and grown to enjoy:
 
 If you have a project that you want to get started, a potential opportunity to work together, or just fancy saying hey, then get in touch.
 
-- LinkedIn: [Isaac Boxall](https://www.linkedin.com/in/isaac-boxall-310788138/)
+- LinkedIn [Isaac Boxall](https://www.linkedin.com/in/isaac-boxall-310788138/)
 
 ## 📈 My Stats
 
