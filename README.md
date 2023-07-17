@@ -32,6 +32,6 @@ If you have a project that you want to get started, a potential opportunity to w
 
 ## 📈 My CodeWars stats
 
-![Codewars](https://github.r2v.ch/codewars?user=Isaacboxall1&stroke=blue)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Isaacboxall1&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 
