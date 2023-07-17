@@ -30,7 +30,7 @@ If you have a project that you want to get started, a potential opportunity to w
 
 - LinkedIn: [Isaac Boxall](https://www.linkedin.com/in/isaac-boxall-310788138/)
 
-## 📈 My CodeWars stats
+## 📈 My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Isaacboxall1&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
