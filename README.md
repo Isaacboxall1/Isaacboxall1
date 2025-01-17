@@ -8,8 +8,8 @@ Below are some of the technologies I have worked with professionally and across 
 
 - **Core**: Typescript, Python, C++
 - **Frameworks/Libraries**: React.js, Next.js
-- **Databases**: postgresSQL, AWS DynamoDB, ElasticSearch
-- **AWS Services**: Step Functions, CDK and Serverless Deployment, EC2, Athena, CloudWatch, Secrets Manager, WAF
+- **Databases**: postgresSQL, AWS DynamoDB, AWS Athena, ElasticSearch
+- **AWS Services**: Step Functions, CDK and Serverless Deployment, EC2, S3, CloudWatch, Secrets Manager, WAF
 - **Testing**: Jest, Mocha
 - **CI/CD**: GitHub Actions
 - **Games Development**: Unreal Engine 5, Godot
